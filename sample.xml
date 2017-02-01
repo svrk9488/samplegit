@@ -3,7 +3,7 @@
   s.date = %q{2017-02-01}
   s.summary = %q{A simple API for XML processing.}
   s.email = %q{svrk9488@gmail.com}
-  s.homepage = %q{https://github.com/svrk9488/sample.xml}
+  s.homepage = %q{https://github.com/svrk9488/samplegit/blob/master/sample.xml}
   s.license = "Ruby"
   s.rubyforge_project = %q{sample.xml}
   s.authors = ["svrk9488"]
